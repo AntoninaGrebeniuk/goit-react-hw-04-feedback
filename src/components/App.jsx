@@ -58,14 +58,3 @@ export function App() {
     </Container>
   );
 }
-
-// const countTotalFeedback = () => {
-//   const total = good + neutral + bad;
-//   return total;
-// };
-
-// const countPositiveFeedbackPercentage = () => {
-//   const positivePercentage =
-//     Math.round((good / countTotalFeedback()) * 100) || 0;
-//   return positivePercentage;
-// };
